@@ -7,6 +7,8 @@ Hi, i'm an Vietnamese guys has passion with developing high-end product
 - I like to travel and I like to have new opportunities 🛫.
 - I built [Refi App](https://refiapp.io/) - A GUI tool to make interacting with Firestore less painful
 
+Check out my blog at https://thanhle.blog/
+
 
 ## 📧 Contact me
 
