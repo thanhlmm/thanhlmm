@@ -1,4 +1,5 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Thanh Le
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi, I'm Thanh Le
 
 Hi, i'm an Vietnamese guys has passion with developing high-end product
 
