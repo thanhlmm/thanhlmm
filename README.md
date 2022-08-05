@@ -6,7 +6,7 @@ Hi, i'm an Vietnamese guys has passion with developing high-end product
 
 - I love nature 🎣🌲, sport 💪, treking 🧗‍♂️ and running 🏃‍♂️.
 - I enjoy learning new stuff and making notes 📄.
-- I like to travel and I like to have new opportunities 🛫.
+- I like to travel and explore new opportunities 🛫.
 - I built [Refi App](https://refiapp.io/) - A GUI tool to make interacting with Firestore less painful
 - I build [Next-lazy-hydrate](https://github.com/thanhlmm/next-lazy-hydrate) - Optimize nextjs performance by lazy load and hydrate under the fold
 
