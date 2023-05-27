@@ -16,7 +16,7 @@ Check out my blog at https://thanhle.blog/ - I write new post weekly
 
 ## 📧 Contact me
 
-[https://twitter.com/cuthanh15](https://twitter.com/thanhledev)
+[https://twitter.com/thanhledev](https://twitter.com/thanhledev)
 
 https://www.linkedin.com/in/thanhlm/
 
