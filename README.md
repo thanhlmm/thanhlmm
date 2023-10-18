@@ -2,14 +2,14 @@
 
 # Hi, I'm Thanh Le
 
-Hi, i'm an Vietnamese guys has passion with developing high-end product
+Hi, i'm an Vietnamese guys who has a passion with developing high-end product
 
 - I love nature 🎣🌲, sport 💪, treking 🧗‍♂️ and running 🏃‍♂️.
 - I enjoy learning new stuff and making notes 📄.
 - I like to travel and explore new opportunities 🛫.
 - I built [Refi App](https://refiapp.io/) - A GUI tool to make interacting with Firestore less painful
 - I built [Next-lazy-hydrate](https://github.com/thanhlmm/next-lazy-hydrate) - Optimize nextjs performance by lazy load and hydrate under the fold
-- I'm building [Nimbus]([https://github.com/thanhlmm/next-lazy-hydrate](https://bento.me/getnimbus)) - A personalized portfolio for DEFI users
+- I'm building [Nimbus 🌩️](https://getnimbus.io) - A personalized portfolio for Web3 investors
 
 
 Check out my blog at https://thanhle.blog/ - I write a new post weekly
